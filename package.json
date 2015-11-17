@@ -1,0 +1,28 @@
+{
+  "name": "hubot-sticker",
+  "description": "Post 'Yes We Code' stickers with Hubot.",
+  "version": "0.0.1",
+  "author": "Taylan Aydinli <taylanaydinli@gmail.com>",
+  "license": "MIT",
+
+  "keywords": "hubot, hubot-scripts, sticker, stickers, fun, development",
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taylan/hubot-sticker.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/taylan/hubot-sticker/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+
+  "main": "index.coffee"
+}
